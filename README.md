@@ -37,7 +37,9 @@ Este es un ejercicio práctico que involucra el uso de **JavaScript** y concepto
 
 ## Instrucciones
 1- Añade los nombres de los participantes en el campo de texto.
+
 2- Haz clic en "Generar Amigo Secreto" para asignar aleatoriamente los amigos secretos.
+
 3- Los resultados se mostrarán en la pantalla, mostrando quién debe hacer un regalo a quién.
 
 
