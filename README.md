@@ -29,3 +29,8 @@ Este es un ejercicio práctico que involucra el uso de **JavaScript** y concepto
 1. Clona el repositorio en tu máquina local:
    ```bash
    git clone https://github.com/EzeAleGuzman/Amigo-Secreto.git
+   ´´´
+
+2. Navega a la carpeta del proyecto:
+   ```bash
+   cd Amigo-Secreto
